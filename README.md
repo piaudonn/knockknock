@@ -12,5 +12,5 @@ I am likely not looking at the IM window in real time unless I have nothing else
 
 Asynchronous communication is awkward and unproductive. I am not here to fix that problem. I am interested in fixing other problems though. So if you have Defender for Identity challenges, Sentinel problems, authentication errors... I want to fix those ❤️‍🔥
 
-🗒️ PS. I fully understand and respect the people who want to opposite of that, and embrace the "nohello" philosophy. I have found it a bit intimidating sometimes. But eh 🤷‍♂️
+🗒️ PS. I fully understand and respect the people who want the opposite of that, and embrace the "nohello" philosophy. I have found it a bit intimidating sometimes. But eh 🤷‍♂️
 
